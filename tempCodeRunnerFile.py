@@ -1,0 +1,1 @@
+_norm = R.astype(np.float32) / 255.0
