@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('hoang_hon_thuy_mac.png') 
+img = cv2.imread('dog.png') 
 
 if img is None:
     print("Lỗi: Không đọc được ảnh. Vui lòng kiểm tra lại đường dẫn file!")
